@@ -1,0 +1,959 @@
+{
+  "canada": {
+    "country_info": {
+      "visa_type": "Study Permit",
+      "processing_time": "4-12 weeks",
+      "post_graduation_work_permit": "Up to 3 years",
+      "language_requirements": "IELTS 6.5+ or TOEFL 90+",
+      "popular_intake": [
+        "September",
+        "January",
+        "May"
+      ],
+      "living_costs": "$12,000 - $18,000 CAD per year",
+      "application_platforms": [
+        "OUAC",
+        "ApplyAlberta",
+        "Education Planner BC"
+      ]
+    },
+    "universities": [
+      {
+        "name": "University of Toronto",
+        "location": "Toronto, Ontario",
+        "world_ranking": 21,
+        "tuition_fees": {
+          "undergraduate": "$58,160 - $63,840 CAD",
+          "graduate": "$25,000 - $65,000 CAD"
+        },
+        "popular_programs": [
+          {
+            "name": "Computer Science",
+            "duration": "4 years",
+            "requirements": "GPA 3.7+, IELTS 6.5"
+          },
+          {
+            "name": "Engineering",
+            "duration": "4 years",
+            "requirements": "GPA 3.5+, Math prerequisites"
+          },
+          {
+            "name": "Business",
+            "duration": "4 years",
+            "requirements": "GPA 3.6+, Essays required"
+          },
+          {
+            "name": "Medicine",
+            "duration": "4 years",
+            "requirements": "MCAT, GPA 3.8+"
+          }
+        ],
+        "admission_requirements": {
+          "gpa": "3.5+",
+          "english": "IELTS 6.5 or TOEFL 100",
+          "documents": [
+            "Transcripts",
+            "SOP",
+            "LOR",
+            "CV"
+          ]
+        },
+        "application_deadlines": {
+          "fall": "January 15",
+          "winter": "October 1"
+        }
+      },
+      {
+        "name": "McGill University",
+        "location": "Montreal, Quebec",
+        "world_ranking": 31,
+        "tuition_fees": {
+          "undergraduate": "$42,000 - $58,000 CAD",
+          "graduate": "$18,000 - $45,000 CAD"
+        },
+        "popular_programs": [
+          {
+            "name": "Medicine",
+            "duration": "4 years",
+            "requirements": "GPA 3.8+, MCAT"
+          },
+          {
+            "name": "Law",
+            "duration": "3 years",
+            "requirements": "LSAT, GPA 3.7+"
+          },
+          {
+            "name": "Engineering",
+            "duration": "4 years",
+            "requirements": "Strong math background"
+          }
+        ],
+        "admission_requirements": {
+          "gpa": "3.4+",
+          "english": "IELTS 6.5 or TOEFL 90",
+          "documents": [
+            "Transcripts",
+            "SOP",
+            "LOR"
+          ]
+        }
+      },
+      {
+        "name": "University of British Columbia",
+        "location": "Vancouver, BC",
+        "world_ranking": 40,
+        "tuition_fees": {
+          "undergraduate": "$38,000 - $58,000 CAD",
+          "graduate": "$8,000 - $45,000 CAD"
+        },
+        "popular_programs": [
+          {
+            "name": "Computer Science",
+            "duration": "4 years",
+            "requirements": "Strong math, coding experience"
+          },
+          {
+            "name": "Business",
+            "duration": "4 years",
+            "requirements": "Leadership experience"
+          }
+        ]
+      },
+      {
+        "name": "University of Waterloo",
+        "location": "Waterloo, Ontario",
+        "world_ranking": 166,
+        "tuition_fees": {
+          "undergraduate": "$45,000 - $62,000 CAD",
+          "graduate": "$18,000 - $50,000 CAD"
+        },
+        "popular_programs": [
+          {
+            "name": "Computer Science",
+            "duration": "4 years",
+            "requirements": "Top 5% academics, Strong math"
+          },
+          {
+            "name": "Engineering",
+            "duration": "4 years",
+            "requirements": "Excellent math/science"
+          },
+          {
+            "name": "Mathematics",
+            "duration": "4 years",
+            "requirements": "Advanced math courses"
+          }
+        ],
+        "scholarships": [
+          {
+            "name": "President's Scholarship",
+            "amount": "$2,000 - $3,000 CAD",
+            "eligibility": "Academic excellence"
+          },
+          {
+            "name": "International Student Entrance Scholarships",
+            "amount": "$1,000 - $5,000 CAD",
+            "eligibility": "Merit-based"
+          }
+        ],
+        "living_costs": "$12,000 - $15,000 CAD per year",
+        "application_platform": "OUAC (Ontario Universities' Application Centre)"
+      }
+    ]
+  },
+  "usa": {
+    "country_info": {
+      "visa_type": "F-1 Student Visa",
+      "processing_time": "2-8 weeks",
+      "post_graduation_work_permit": "OPT 12 months (36 for STEM)",
+      "language_requirements": "IELTS 6.5+ or TOEFL 80+",
+      "popular_intake": [
+        "Fall (August)",
+        "Spring (January)"
+      ],
+      "living_costs": "$15,000 - $30,000 USD per year",
+      "application_platforms": [
+        "Common Application",
+        "Coalition Application",
+        "UC Application"
+      ]
+    },
+    "universities": [
+      {
+        "name": "Harvard University",
+        "location": "Cambridge, Massachusetts",
+        "world_ranking": 3,
+        "tuition_fees": {
+          "undergraduate": "$54,269 USD",
+          "graduate": "$51,904 - $73,440 USD"
+        },
+        "popular_programs": [
+          {
+            "name": "Computer Science",
+            "duration": "4 years",
+            "requirements": "SAT 1520+, GPA 4.0"
+          },
+          {
+            "name": "Business (MBA)",
+            "duration": "2 years",
+            "requirements": "GMAT 730+, Work experience"
+          },
+          {
+            "name": "Medicine",
+            "duration": "4 years",
+            "requirements": "MCAT 520+, Research experience"
+          }
+        ],
+        "admission_requirements": {
+          "gpa": "3.9+",
+          "english": "TOEFL 109 or IELTS 7.5",
+          "standardized_tests": "SAT/ACT, GRE/GMAT",
+          "documents": [
+            "Essays",
+            "LOR",
+            "Transcripts",
+            "CV"
+          ]
+        }
+      },
+      {
+        "name": "MIT",
+        "location": "Cambridge, Massachusetts",
+        "world_ranking": 1,
+        "tuition_fees": {
+          "undergraduate": "$57,986 USD",
+          "graduate": "$59,750 USD"
+        },
+        "popular_programs": [
+          {
+            "name": "Engineering",
+            "duration": "4 years",
+            "requirements": "Exceptional math/science"
+          },
+          {
+            "name": "Computer Science",
+            "duration": "4 years",
+            "requirements": "Programming portfolio"
+          }
+        ]
+      },
+      {
+        "name": "Stanford University",
+        "location": "Stanford, California",
+        "world_ranking": 5,
+        "tuition_fees": {
+          "undergraduate": "$56,169 USD",
+          "graduate": "$54,315 USD"
+        },
+        "popular_programs": [
+          {
+            "name": "Computer Science",
+            "duration": "4 years",
+            "requirements": "Top 1% academics"
+          },
+          {
+            "name": "MBA",
+            "duration": "2 years",
+            "requirements": "GMAT 740+, Leadership"
+          }
+        ]
+      },
+      {
+        "name": "University of California, Berkeley",
+        "location": "Berkeley, California",
+        "world_ranking": 10,
+        "tuition_fees": {
+          "undergraduate": "$44,007 USD (in-state), $73,176 USD (out-of-state)",
+          "graduate": "$14,226 - $26,544 USD"
+        },
+        "popular_programs": [
+          {
+            "name": "Computer Science",
+            "duration": "4 years",
+            "requirements": "SAT 1450+, Strong STEM"
+          },
+          {
+            "name": "Engineering",
+            "duration": "4 years",
+            "requirements": "Top 10% class rank"
+          },
+          {
+            "name": "Business",
+            "duration": "4 years",
+            "requirements": "Leadership experience"
+          }
+        ],
+        "scholarships": [
+          {
+            "name": "Regents' and Chancellor's Scholarship",
+            "amount": "Full tuition + $2,500 USD",
+            "eligibility": "Top 1% students"
+          },
+          {
+            "name": "Berkeley International Office Scholarships",
+            "amount": "$1,000 - $5,000 USD",
+            "eligibility": "International students"
+          }
+        ],
+        "living_costs": "$20,000 - $25,000 USD per year"
+      }
+    ]
+  },
+  "uk": {
+    "country_info": {
+      "visa_type": "Student Visa (Tier 4)",
+      "processing_time": "3-8 weeks",
+      "post_graduation_work_permit": "2 years (3 for PhD)",
+      "language_requirements": "IELTS 6.0+ or TOEFL 72+",
+      "popular_intake": [
+        "September",
+        "January"
+      ],
+      "living_costs": "\u00a312,000 - \u00a318,000 GBP per year",
+      "application_platforms": [
+        "UCAS (Universities and Colleges Admissions Service)"
+      ]
+    },
+    "universities": [
+      {
+        "name": "University of Oxford",
+        "location": "Oxford, England",
+        "world_ranking": 4,
+        "tuition_fees": {
+          "undergraduate": "\u00a328,370 - \u00a339,010 GBP",
+          "graduate": "\u00a324,910 - \u00a348,670 GBP"
+        },
+        "popular_programs": [
+          {
+            "name": "Medicine",
+            "duration": "6 years",
+            "requirements": "A*A*A, BMAT"
+          },
+          {
+            "name": "Law",
+            "duration": "3 years",
+            "requirements": "A*AA, LNAT"
+          },
+          {
+            "name": "Engineering",
+            "duration": "4 years",
+            "requirements": "A*A*A in Math/Physics"
+          }
+        ],
+        "admission_requirements": {
+          "gpa": "First Class Honours equivalent",
+          "english": "IELTS 7.0 or TOEFL 100",
+          "documents": [
+            "Personal Statement",
+            "References",
+            "Transcripts"
+          ]
+        }
+      },
+      {
+        "name": "University of Cambridge",
+        "location": "Cambridge, England",
+        "world_ranking": 2,
+        "tuition_fees": {
+          "undergraduate": "\u00a324,507 - \u00a363,990 GBP",
+          "graduate": "\u00a324,000 - \u00a359,000 GBP"
+        },
+        "popular_programs": [
+          {
+            "name": "Natural Sciences",
+            "duration": "3-4 years",
+            "requirements": "A*A*A"
+          },
+          {
+            "name": "Engineering",
+            "duration": "4 years",
+            "requirements": "A*A*A in Math/Physics"
+          }
+        ]
+      },
+      {
+        "name": "Imperial College London",
+        "location": "London, England",
+        "world_ranking": 8,
+        "tuition_fees": {
+          "undergraduate": "\u00a334,000 - \u00a346,650 GBP",
+          "graduate": "\u00a324,250 - \u00a339,100 GBP"
+        },
+        "popular_programs": [
+          {
+            "name": "Engineering",
+            "duration": "3-4 years",
+            "requirements": "A*A*A"
+          },
+          {
+            "name": "Medicine",
+            "duration": "6 years",
+            "requirements": "A*AA, BMAT"
+          }
+        ]
+      },
+      {
+        "name": "London School of Economics",
+        "location": "London, England",
+        "world_ranking": 56,
+        "tuition_fees": {
+          "undergraduate": "\u00a322,430 GBP",
+          "graduate": "\u00a323,520 - \u00a332,208 GBP"
+        },
+        "popular_programs": [
+          {
+            "name": "Economics",
+            "duration": "3 years",
+            "requirements": "A*AA, Strong math"
+          },
+          {
+            "name": "International Relations",
+            "duration": "3 years",
+            "requirements": "AAA, Essay portfolio"
+          },
+          {
+            "name": "Finance",
+            "duration": "3 years",
+            "requirements": "A*AA, Math A-level"
+          }
+        ],
+        "scholarships": [
+          {
+            "name": "LSE Undergraduate Support Scheme",
+            "amount": "\u00a33,000 - \u00a37,000 GBP",
+            "eligibility": "Need-based"
+          },
+          {
+            "name": "International Excellence Awards",
+            "amount": "\u00a35,000 - \u00a310,000 GBP",
+            "eligibility": "Academic merit"
+          }
+        ],
+        "living_costs": "$15,000 - $20,000 GBP per year"
+      }
+    ]
+  },
+  "australia": {
+    "country_info": {
+      "visa_type": "Student Visa (Subclass 500)",
+      "processing_time": "4-6 weeks",
+      "post_graduation_work_permit": "2-4 years",
+      "language_requirements": "IELTS 6.0+ or TOEFL 60+",
+      "popular_intake": [
+        "February",
+        "July"
+      ],
+      "living_costs": "$18,000 - $25,000 AUD per year",
+      "application_platforms": [
+        "UAC",
+        "VTAC",
+        "Direct university applications"
+      ]
+    },
+    "universities": [
+      {
+        "name": "University of Melbourne",
+        "location": "Melbourne, Victoria",
+        "world_ranking": 33,
+        "tuition_fees": {
+          "undergraduate": "$32,000 - $48,000 AUD",
+          "graduate": "$28,000 - $45,000 AUD"
+        },
+        "popular_programs": [
+          {
+            "name": "Medicine",
+            "duration": "4 years",
+            "requirements": "GAMSAT, Interview"
+          },
+          {
+            "name": "Engineering",
+            "duration": "4 years",
+            "requirements": "Strong math background"
+          },
+          {
+            "name": "Business",
+            "duration": "3 years",
+            "requirements": "ATAR 95+"
+          }
+        ],
+        "admission_requirements": {
+          "gpa": "80%+",
+          "english": "IELTS 6.5 or TOEFL 79",
+          "documents": [
+            "Transcripts",
+            "SOP",
+            "CV"
+          ]
+        }
+      },
+      {
+        "name": "University of Sydney",
+        "location": "Sydney, NSW",
+        "world_ranking": 41,
+        "tuition_fees": {
+          "undergraduate": "$35,000 - $50,000 AUD",
+          "graduate": "$30,000 - $48,000 AUD"
+        },
+        "popular_programs": [
+          {
+            "name": "Medicine",
+            "duration": "6 years",
+            "requirements": "ATAR 99.5+"
+          },
+          {
+            "name": "Law",
+            "duration": "4 years",
+            "requirements": "ATAR 99+"
+          }
+        ]
+      },
+      {
+        "name": "Australian National University",
+        "location": "Canberra, ACT",
+        "world_ranking": 30,
+        "tuition_fees": {
+          "undergraduate": "$35,000 - $48,000 AUD",
+          "graduate": "$38,000 - $52,000 AUD"
+        },
+        "popular_programs": [
+          {
+            "name": "International Relations",
+            "duration": "3 years",
+            "requirements": "ATAR 95+"
+          },
+          {
+            "name": "Computer Science",
+            "duration": "3 years",
+            "requirements": "Strong math"
+          },
+          {
+            "name": "Law",
+            "duration": "4 years",
+            "requirements": "ATAR 99+"
+          }
+        ],
+        "scholarships": [
+          {
+            "name": "ANU Chancellor's International Scholarship",
+            "amount": "$25,000 AUD per year",
+            "eligibility": "Academic excellence"
+          },
+          {
+            "name": "ANU College of Excellence Scholarship",
+            "amount": "$15,000 AUD",
+            "eligibility": "Merit-based"
+          }
+        ],
+        "living_costs": "$20,000 - $25,000 AUD per year"
+      }
+    ]
+  },
+  "germany": {
+    "country_info": {
+      "visa_type": "Student Visa",
+      "processing_time": "4-8 weeks",
+      "post_graduation_work_permit": "18 months job search",
+      "language_requirements": "German B2 or English IELTS 6.0+",
+      "popular_intake": [
+        "October",
+        "April"
+      ],
+      "living_costs": "\u20ac700 - \u20ac1,000 per month",
+      "application_platforms": [
+        "uni-assist",
+        "Direct university applications"
+      ]
+    },
+    "universities": [
+      {
+        "name": "Technical University of Munich",
+        "location": "Munich, Bavaria",
+        "world_ranking": 50,
+        "tuition_fees": {
+          "undergraduate": "\u20ac150 - \u20ac350 per semester",
+          "graduate": "\u20ac150 - \u20ac3,000 per semester"
+        },
+        "popular_programs": [
+          {
+            "name": "Engineering",
+            "duration": "3-4 years",
+            "requirements": "Strong math/science"
+          },
+          {
+            "name": "Computer Science",
+            "duration": "3 years",
+            "requirements": "Programming knowledge"
+          }
+        ],
+        "admission_requirements": {
+          "gpa": "2.5+ (German scale)",
+          "language": "German C1 or English B2",
+          "documents": [
+            "APS Certificate",
+            "Transcripts",
+            "CV"
+          ]
+        }
+      },
+      {
+        "name": "University of Heidelberg",
+        "location": "Heidelberg, Baden-W\u00fcrttemberg",
+        "world_ranking": 64,
+        "tuition_fees": {
+          "undergraduate": "\u20ac171.75 per semester",
+          "graduate": "\u20ac171.75 - \u20ac3,000 per semester"
+        },
+        "popular_programs": [
+          {
+            "name": "Medicine",
+            "duration": "6 years",
+            "requirements": "Abitur 1.0-1.2, TMS test"
+          },
+          {
+            "name": "Law",
+            "duration": "4.5 years",
+            "requirements": "Strong German, Good grades"
+          },
+          {
+            "name": "Natural Sciences",
+            "duration": "3 years",
+            "requirements": "Strong science background"
+          }
+        ],
+        "scholarships": [
+          {
+            "name": "DAAD Scholarships",
+            "amount": "\u20ac861 per month",
+            "eligibility": "Academic excellence"
+          },
+          {
+            "name": "Deutschland Stipendium",
+            "amount": "\u20ac300 per month",
+            "eligibility": "Merit + social engagement"
+          }
+        ],
+        "living_costs": "\u20ac800 - \u20ac1,200 per month"
+      }
+    ]
+  },
+  "ireland": {
+    "country_info": {
+      "visa_type": "Study Visa",
+      "processing_time": "4-8 weeks",
+      "post_graduation_work_permit": "2 years",
+      "language_requirements": "IELTS 6.0+ or TOEFL 80+",
+      "popular_intake": [
+        "September",
+        "January"
+      ]
+    },
+    "universities": [
+      {
+        "name": "Trinity College Dublin",
+        "location": "Dublin",
+        "world_ranking": 101,
+        "tuition_fees": {
+          "undergraduate": "\u20ac21,000 - \u20ac45,000 EUR",
+          "graduate": "\u20ac15,000 - \u20ac35,000 EUR"
+        },
+        "popular_programs": [
+          {
+            "name": "Computer Science",
+            "duration": "4 years",
+            "requirements": "Strong math"
+          },
+          {
+            "name": "Business",
+            "duration": "4 years",
+            "requirements": "Good academics"
+          }
+        ]
+      }
+    ]
+  },
+  "new_zealand": {
+    "country_info": {
+      "visa_type": "Student Visa",
+      "processing_time": "4-6 weeks",
+      "post_graduation_work_permit": "3 years",
+      "language_requirements": "IELTS 6.0+ or TOEFL 80+",
+      "popular_intake": [
+        "February",
+        "July"
+      ],
+      "living_costs": "$15,000 - $20,000 NZD per year",
+      "application_platform": "Direct university applications"
+    },
+    "universities": [
+      {
+        "name": "University of Auckland",
+        "location": "Auckland",
+        "world_ranking": 85,
+        "tuition_fees": {
+          "undergraduate": "$28,000 - $45,000 NZD",
+          "graduate": "$30,000 - $50,000 NZD"
+        },
+        "popular_programs": [
+          {
+            "name": "Engineering",
+            "duration": "4 years",
+            "requirements": "NCEA Level 3, Strong math/science"
+          },
+          {
+            "name": "Business",
+            "duration": "3 years",
+            "requirements": "Good academic record"
+          },
+          {
+            "name": "Medicine",
+            "duration": "6 years",
+            "requirements": "UMAT, Interview, Top grades"
+          }
+        ],
+        "scholarships": [
+          {
+            "name": "University of Auckland International Student Excellence Scholarship",
+            "amount": "$10,000 NZD",
+            "eligibility": "Academic excellence"
+          },
+          {
+            "name": "Faculty Scholarships",
+            "amount": "$5,000 - $15,000 NZD",
+            "eligibility": "Program-specific"
+          }
+        ],
+        "admission_requirements": {
+          "gpa": "B+ average",
+          "english": "IELTS 6.0 or TOEFL 80",
+          "documents": [
+            "Transcripts",
+            "SOP",
+            "References"
+          ]
+        },
+        "application_timeline": {
+          "application_opens": "September",
+          "deadline": "December 8",
+          "results": "January-February"
+        }
+      },
+      {
+        "name": "University of Otago",
+        "location": "Dunedin",
+        "world_ranking": 194,
+        "tuition_fees": {
+          "undergraduate": "$26,000 - $42,000 NZD",
+          "graduate": "$28,000 - $45,000 NZD"
+        },
+        "popular_programs": [
+          {
+            "name": "Medicine",
+            "duration": "6 years",
+            "requirements": "Health Sciences First Year"
+          },
+          {
+            "name": "Dentistry",
+            "duration": "5 years",
+            "requirements": "DAT, Interview"
+          }
+        ],
+        "scholarships": [
+          {
+            "name": "University of Otago International Excellence Scholarship",
+            "amount": "$15,000 NZD",
+            "eligibility": "Top 3% of applicants"
+          }
+        ]
+      }
+    ]
+  },
+  "netherlands": {
+    "country_info": {
+      "visa_type": "Student Residence Permit",
+      "processing_time": "4-8 weeks",
+      "post_graduation_work_permit": "1 year search + 3 years work",
+      "language_requirements": "IELTS 6.0+ or TOEFL 80+ (English programs)",
+      "popular_intake": [
+        "September",
+        "February"
+      ],
+      "living_costs": "\u20ac800 - \u20ac1,200 per month",
+      "application_platform": "Studielink + University portals"
+    },
+    "universities": [
+      {
+        "name": "University of Amsterdam",
+        "location": "Amsterdam",
+        "world_ranking": 58,
+        "tuition_fees": {
+          "undergraduate": "\u20ac2,314 - \u20ac15,000 EUR (EU/Non-EU)",
+          "graduate": "\u20ac2,314 - \u20ac20,000 EUR (EU/Non-EU)"
+        },
+        "popular_programs": [
+          {
+            "name": "Computer Science",
+            "duration": "3 years",
+            "requirements": "Strong math background"
+          },
+          {
+            "name": "Business Administration",
+            "duration": "3 years",
+            "requirements": "Good academics"
+          },
+          {
+            "name": "Psychology",
+            "duration": "3 years",
+            "requirements": "Social sciences background"
+          }
+        ],
+        "scholarships": [
+          {
+            "name": "Amsterdam Merit Scholarships",
+            "amount": "\u20ac25,000 EUR",
+            "eligibility": "Exceptional students"
+          },
+          {
+            "name": "Holland Scholarship",
+            "amount": "\u20ac5,000 EUR",
+            "eligibility": "Non-EU students"
+          }
+        ],
+        "admission_requirements": {
+          "gpa": "7.0/10 (Dutch scale)",
+          "english": "IELTS 6.5 or TOEFL 92",
+          "documents": [
+            "Diploma",
+            "Transcripts",
+            "Motivation Letter"
+          ]
+        }
+      },
+      {
+        "name": "Delft University of Technology",
+        "location": "Delft",
+        "world_ranking": 47,
+        "tuition_fees": {
+          "undergraduate": "\u20ac2,314 - \u20ac15,000 EUR",
+          "graduate": "\u20ac2,314 - \u20ac18,750 EUR"
+        },
+        "popular_programs": [
+          {
+            "name": "Aerospace Engineering",
+            "duration": "3 years",
+            "requirements": "Excellent math/physics"
+          },
+          {
+            "name": "Computer Science",
+            "duration": "3 years",
+            "requirements": "Programming experience"
+          }
+        ],
+        "scholarships": [
+          {
+            "name": "TU Delft Excellence Scholarships",
+            "amount": "Full tuition + \u20ac12,500 EUR",
+            "eligibility": "Top 5% students"
+          }
+        ]
+      }
+    ]
+  },
+  "program_categories": {
+    "engineering": {
+      "subcategories": [
+        "Computer Science",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "Electrical Engineering",
+        "Aerospace Engineering",
+        "Chemical Engineering"
+      ],
+      "typical_requirements": "Strong math and science background, SAT/ACT scores, GPA 3.5+",
+      "career_prospects": "High demand, excellent salary prospects, STEM OPT eligibility in USA"
+    },
+    "business": {
+      "subcategories": [
+        "MBA",
+        "Finance",
+        "Marketing",
+        "International Business",
+        "Accounting",
+        "Management"
+      ],
+      "typical_requirements": "GMAT/GRE for graduate programs, work experience for MBA, leadership activities",
+      "career_prospects": "Versatile career options, networking opportunities, management roles"
+    },
+    "medicine_healthcare": {
+      "subcategories": [
+        "Medicine",
+        "Dentistry",
+        "Pharmacy",
+        "Nursing",
+        "Public Health",
+        "Biomedical Sciences"
+      ],
+      "typical_requirements": "MCAT/DAT/PCAT, clinical experience, volunteer work, high GPA",
+      "career_prospects": "High earning potential, job security, social impact"
+    },
+    "arts_humanities": {
+      "subcategories": [
+        "Literature",
+        "History",
+        "Philosophy",
+        "Fine Arts",
+        "Music",
+        "Languages"
+      ],
+      "typical_requirements": "Portfolio for arts, writing samples, cultural awareness",
+      "career_prospects": "Creative industries, education, cultural institutions"
+    },
+    "sciences": {
+      "subcategories": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Mathematics",
+        "Environmental Science",
+        "Psychology"
+      ],
+      "typical_requirements": "Strong analytical skills, research experience, lab work",
+      "career_prospects": "Research opportunities, academia, industry applications"
+    }
+  },
+  "application_timelines": {
+    "usa": {
+      "early_decision": {
+        "deadline": "November 1-15",
+        "results": "December 15"
+      },
+      "regular_decision": {
+        "deadline": "January 1-15",
+        "results": "March-April"
+      },
+      "graduate_programs": {
+        "deadline": "December 1 - February 1",
+        "results": "March-May"
+      }
+    },
+    "uk": {
+      "ucas_deadline": {
+        "deadline": "January 15",
+        "results": "May-August"
+      },
+      "oxbridge_deadline": {
+        "deadline": "October 15",
+        "results": "January"
+      }
+    },
+    "canada": {
+      "ontario_universities": {
+        "deadline": "January 15",
+        "results": "May-June"
+      },
+      "other_provinces": {
+        "deadline": "March 1",
+        "results": "April-July"
+      }
+    }
+  }
+}
